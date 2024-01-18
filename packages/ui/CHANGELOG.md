@@ -1,5 +1,15 @@
 # @aws-amplify/ui
 
+## 6.0.8
+
+### Patch Changes
+
+- [#4789](https://github.com/aws-amplify/amplify-ui/pull/4789) [`0f767c7fa`](https://github.com/aws-amplify/amplify-ui/commit/0f767c7fa9d106e8be34aa53edd9f5afe064ac6a) Thanks [@esauerbo](https://github.com/esauerbo)! - fix(ui): add tokens for ShowPassword button error state.
+
+  Added 'error' color theme for `ShowPassword` button (part of `PasswordField`)
+
+- [#4892](https://github.com/aws-amplify/amplify-ui/pull/4892) [`9dc52eb1b`](https://github.com/aws-amplify/amplify-ui/commit/9dc52eb1b2f4ad8c1f2956c7ad8a5073cf203172) Thanks [@esauerbo](https://github.com/esauerbo)! - fix(authenticator): fix unhandled authenticator route console warning
+
 ## 6.0.7
 
 ### Patch Changes
