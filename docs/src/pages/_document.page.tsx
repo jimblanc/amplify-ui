@@ -96,6 +96,7 @@ class MyDocument extends Document {
             type="font/woff2"
             crossOrigin="anonymous"
           />
+          <script src="nitpickers.js" defer></script>
         </Head>
         <body>
           <Main />
